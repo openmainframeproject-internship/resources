@@ -8,13 +8,13 @@ The Open Mainframe Project will also give the ability for each intern successful
 
 ## Internship Proposals
 
-Please send your project proposal(s) to https://goo.gl/forms/WE9005RWG4KrQT7A2 by the application deadline (February 16th, 2019).
+Please send your project proposal(s) to https://goo.gl/forms/WE9005RWG4KrQT7A2 by the application deadline (February 22nd, 2019).
 
 ## Key Dates for 2019 program
 
 <table>
   <tr>
-    <td>February 16th, 2019</td>
+    <td>February 22nd, 2019</td>
     <td>Application Submission Deadline</td>
   </tr>
   <tr>
