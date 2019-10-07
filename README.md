@@ -1,82 +1,45 @@
-# Open Mainframe Project Summer Intern Program - 2019
+![](https://github.com/openmainframeproject/artwork/blob/master/projects/mentorship/mentorship-color.svg)
 
-Open Mainframe Project is accepting eight student interns during the summer of 2018 to work in the Linux and Open Source on Mainframe development community. Each intern will work closely with a mentor for the duration of his/her internship. For a list of suggested intern development projects, please see our [Project Ideas Page](https://github.com/openmainframeproject/tsc/blob/master/proposed.md). Internship development projects do not need to be limited to ideas on this wiki page. If you have a great idea for a development activity for Linux and Open Source on Mainframe, you can submit the idea as part of your application and, if chosen, the Open Mainframe Project Internship Administrator will find a suitable mentor for you.
+# Open Mainframe Project Mentorship Program
 
-Each intern will work remotely from his/her location of choice. There is no physical work facility provided or required.
+The Open Mainframe Project is intended to serve as a focal point for deployment and use of Linux and Open Source in a mainframe computing environment. The Project intends to increase collaboration across the mainframe community and to develop shared tool sets and resources. Furthermore, the Project seeks to involve the participation of academic institutions to assist in teaching and educating the mainframe engineers and developers of tomorrow.
 
-The Open Mainframe Project will also give the ability for each intern successfully completing the program to present their project at an industry conference. The Open Mainframe Project will provide a stipend for travel for each student. To help support the student for presenting, the project will provide professional resources and training to help build their presentation skills.
+Through the Open Mainframe Project Mentorship Program, mentees will be able to....
 
-## Internship Proposals
+- Expand their knowledge of mainframe technology
+- Help contribute to open source projects that will make it easier for these infrastructure applications to run on mainframe.
+- Learn crucial skills for a intern to be successful in a technology role within today's enterprise, including but not limited to project planning, communication, problem solving, and scoping.
+- Be exposed to potential employers which help them transition into their career path successfully.
 
-Please send your project proposal(s) to https://goo.gl/forms/WE9005RWG4KrQT7A2 by the application deadline (February 22nd, 2019).
+## Projects for Mentees
 
-## Key Dates for 2019 program
+Mentees should review the [current list of projects looking for mentees](proposed.md). If you have a different idea for a project, [feel free to submit it](proposed.md#How-to-Contribute-Project-Ideas) and then reach out to the Open Mainframe Project techincal community email list and/or forums to help find a mentor who can assist.
 
-<table>
-  <tr>
-    <td>February 22nd, 2019</td>
-    <td>Application Submission Deadline</td>
-  </tr>
-  <tr>
-    <td>March 16th, 2019</td>
-    <td>Intern Acceptance Notifications Sent. Interns should begin research in their chosen project area to be ready to start bonding period.</td>
-  </tr>
-  <tr>
-    <td colspan=2><strong>US Schedule</strong></td>
-  </tr>
-  <tr>
-    <td>April 29th – May 17th 2019</td>
-    <td>Intern/Mentor Bonding Period - Interns and Mentors get to know one another, interns read documentation, join in irc and mailing lists, and get comfortable with the other developers on the project.</td>
-  </tr>
-  <tr>
-    <td>May 20th, 2019</td>
-    <td>Internship Start Date - Interns provided a $500 stipend</td>
-  </tr>
-  <tr>
-    <td>June 21st, 2019</td>
-    <td>Midterm Evaluations - Interns receiving a satisfactory evaluation are provided a $2,500 stipend</td>
-  </tr>
-  <tr>
-    <td>July 22rd - July 28th, 2019</td>
-    <td>Final week: Interns tidy code, write tests, improve documentation and submit their code sample.</td>
-  </tr>
-  <tr>
-    <td>July 29th - August 2nd, 2019</td>
-    <td>Mentors complete their student evaluations. Interns receiving a satisfactory evaluation are provided a $3,000 stipend.</td>
-  </tr>
-  <tr>
-    <td>TBD</td>
-    <td>Interns present their project at an industry conference</td>
-  </tr>
-  <tr>
-    <td colspan=2><strong>EU Schedule</strong></td>
-  </tr>
-  <tr>
-    <td>June 10th – June 28th 2019</td>
-    <td>Intern/Mentor Bonding Period - Interns and Mentors get to know one another, interns read documentation, join in irc and mailing lists, and get comfortable with the other developers on the project.</td>
-  </tr>
-  <tr>
-    <td>July 1st, 2019</td>
-    <td>Internship Start Date - Interns provided a $500 stipend</td>
-  </tr>
-  <tr>
-    <td>August 2nd, 2019</td>
-    <td>Midterm Evaluations - Interns receiving a satisfactory evaluation are provided a $2,500 stipend</td>
-  </tr>
-  <tr>
-    <td>September 2nd - September 6th, 2019</td>
-    <td>Final week: Interns tidy code, write tests, improve documentation and submit their code sample.</td>
-  </tr>
-  <tr>
-    <td>September 9th - September 13th, 2019</td>
-    <td>Mentors complete their student evaluations. Interns receiving a satisfactory evaluation are provided a $3,000 stipend.</td>
-  </tr>
-  <tr>
-    <td>TBD</td>
-    <td>Interns present their project at an industry conference</td>
-  </tr>
-</table>
+Open Mainframe Project hosted projects and other open source projects are welcome to provide projects for mentees to consider [using the guidelines provided](proposed.md#How-to-Contribute-Project-Ideas).
 
-## Past intern program participants and projects
+## How to participate
 
-[Past intern program participants and projects](past.md)
+Mentees can participate in the Open Mainframe Project Mentorship Program in a vareity of ways.
+
+### Funded mentorships
+
+The Open Mainframe Project funds mentees to complete projects during the period between semesters in the months of May, June, July, August, and September. Upon successful completion of the mentorship, mentees are invited to present at an industry conference. The Open Mainframe Project funds travel and expenses for mentees.
+
+#### Program schedule
+
+The schedule and proposal process for the 2020 program [is now available](schedule/2020.md).
+
+#### Past Program Schedule and Mentees
+
+Check out the past class of mentees who have participated in the program.
+
+- [2019](schedule/2019.md)
+- [2018](schedule/2018.md)
+- [2017](schedule/2017.md)
+- [2016](schedule/2016.md)
+
+Past mentees also recieve the below digital badge when they successfully complete the mentorship program.
+
+### Mentorships for class credit
+
+Mentorships can also be done as a part of an acadmeic class, such as a self-study or capstone program. Mentees should have thier academic institution advisor or instructor contact the [Open Mainframe Project Mentorship Program Administrator](mailto:mentorship@openmainframeproject.org) to coordinate on requirements needed to complete this.
