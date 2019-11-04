@@ -14,7 +14,7 @@ You can reach out to the mentor(s) mentioned, or the overall project owner, if y
   * [Cloud Foundry Operator for Kubernetes on Z](/proposed_projects/Cloud_Foundry_Operator_for_Kubernetes_on_Z.md)
   * [Zowe Feature Addition](/proposed_projects/Zowe%20Features%20Addition.md)
   * [Bootstrap CentOS on Z](/proposed_projects/Bootstrap%20CentOS%20on%20Z.md)
-  * [Full S390x JIT support for LuaJIT](/proposed_projects/LuaJIT_s390x_support.md)
+  * [Full S390x JIT support for moonjit](/proposed_projects/moonjit_s390x_support.md)
 
 ## Projects completed by past interns
 

@@ -1,7 +1,7 @@
-# Full S390x JIT support for LuaJIT
+# Full S390x JIT support for moonjit
 
 ## Description
-The [LuaJIT](https://github.com/LuaJIT/LuaJIT) project has been unmaintained for some time and there is a [fork](https://github.com/siddhesh/LuaJIT) that has been incorporating fixes and features, including s390x support.  S390x interpreter support for LuaJIT is functional and incorporated into Fedora.  However, only a subset of the builtin testsuite runs due to JIT support not being implemented for S390x.
+The [moonjit](https://github.com/moonjit/moonjit) project is an active fork of the long unmaintained [LuaJIT](https://github.com/LuaJIT/LuaJIT) project that has been incorporating fixes and features and has s390x support.  S390x interpreter support for moonjit is incorporated into Fedora and will soon make its way into other Linux distributions.  However, only a subset of the builtin testsuite runs due to JIT support not being implemented for S390x.
 
 This project will involve the following tasks:
 
@@ -16,7 +16,7 @@ This project will involve the following tasks:
   * Comfortable in C and s390x assembly programming
 
 ## Expected Outcome
-  * LuaJIT has a functional JIT compiler on S390x
+  * moonjit has a functional JIT compiler on S390x
   * Same number of tests run and pass as x86_64
 
 ## Difficultly
