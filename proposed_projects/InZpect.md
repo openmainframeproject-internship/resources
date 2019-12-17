@@ -7,13 +7,17 @@
 
 
 ## Desirable Skills
-*Z Assembler, IPCS, Hexadecimal.*
+* Z Assembler *
+* IPCS * 
+* Hexadecimal *
+* Javascript *
+* React *
 
 ## Expected Outcome
-*List the deliverable(s) (features/application(s)/report(s) etc.) expected*
+There is a lot of work to do in UI and testing.  Plus almost any work on the internals requires lots of knowledge of the operating system. 
 
 ## Difficultly
-*Hard*
+Hard
 
 ## Mentors
   * *Joe Devlin <joe.devlin@gmail.com>*
