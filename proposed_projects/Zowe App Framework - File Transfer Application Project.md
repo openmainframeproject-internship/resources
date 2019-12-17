@@ -26,4 +26,4 @@
   Jean-Philippe Linardon  <jlinardon@rocketsoftware.com>
 
 ## Additional Contacts
-*(https://github.com/zowe)
+*(https://github.com/zowe)*
