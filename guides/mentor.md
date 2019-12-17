@@ -1,6 +1,6 @@
 # Open Mainframe Project Mentorship Program - Mentor Guide
 
-![](https://github.com/openmainframeproject/artwork/blob/master/projects/mentorship/mentorship-color.svg)
+![Mentorship Logo](https://github.com/openmainframeproject/artwork/blob/master/projects/mentorship/mentorship-color.svg)
 
 - [Role of the Mentor](#role-of-the-mentor)
   * [What Makes a Good Mentor?](#what-makes-a-good-mentor-)
