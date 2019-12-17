@@ -19,7 +19,7 @@
 *Medium*
 
 ## Mentors
-  * * Yongkook(Alex) Kim Vicom Infinity <ykim@vicominfinity.com> *
+  * *Yongkook(Alex) Kim Vicom Infinity <ykim@vicominfinity.com> *
 
 ## Additional Contacts
 https://github.com/zowe
