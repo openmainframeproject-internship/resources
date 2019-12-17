@@ -13,8 +13,8 @@
 ## Desirable Skills
 * *Knowledge of JavaScript and/or TypeScript*
 * *Understanding of transpiling and webpacking*
-* * *Experience with HTML web page creation*
-*Experience with SPA development using Angular or React*
+* *Experience with HTML web page creation*
+* *Experience with SPA development using Angular or React*
 
 ## Expected Outcome
 *Upon successful completion of the project, a fully functional web application hosted within the Zowe Virtual Desktop will enable a user to move files and datasets back and forth between a Mainframe and a user desktop while managing encoding to ensure users can easily open transferred files.*
@@ -23,7 +23,7 @@
 *Easy*
 
 ## Mentors
-  *Jean-Philippe Linardon  <jlinardon@rocketsoftware.com>
+  Jean-Philippe Linardon  <jlinardon@rocketsoftware.com>
 
 ## Additional Contacts
 *Identify the IRC channel(s) and mailing list(s) where potential interns can ask questions and further interact with members of Open Mainframe Project project they would be working with.*
