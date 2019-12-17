@@ -13,7 +13,7 @@
 *List the deliverable(s) (features/application(s)/report(s) etc.) expected*
 
 ## Difficultly
-*Easy/Medium/Hard*
+*Hard*
 
 ## Mentors
   * *Joe Devlin <joe.devlin@gmail.com>*
