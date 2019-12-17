@@ -5,7 +5,7 @@
 *
 
 ## Additional Information
-*     *
+
 
 ## Desirable Skills
 *Perl, Mainframe
