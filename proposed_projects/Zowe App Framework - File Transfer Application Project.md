@@ -26,4 +26,4 @@
   Jean-Philippe Linardon  <jlinardon@rocketsoftware.com>
 
 ## Additional Contacts
-*Identify the IRC channel(s) and mailing list(s) where potential interns can ask questions and further interact with members of Open Mainframe Project project they would be working with.*
+*(https://github.com/zowe)
