@@ -1,5 +1,7 @@
 # Open Mainframe Project Mentorship Program - Mentee Guide
 
+![](https://github.com/openmainframeproject/artwork/blob/master/projects/mentorship/mentorship-color.svg)
+
 * [Mentee/Mentor Bonding Period](#mentee-mentor-bonding-period)
     + [How to Get a Head Start](#how-to-get-a-head-start)
       - [Get Your Development Environment in Order](#get-your-development-environment-in-order)
