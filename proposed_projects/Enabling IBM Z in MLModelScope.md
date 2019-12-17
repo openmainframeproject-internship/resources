@@ -17,7 +17,7 @@
 *Medium*
 
 ## Mentors
-  * *Hong Min <hongmin@us.ibm.com>
+  * *Hong Min  IBM  <hongmin@us.ibm.com>*
   
 ## Additional Contacts
 *MLModelScope (https://mlmodelscope.org/) *
