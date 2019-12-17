@@ -2,6 +2,8 @@
 
 ![Mentorship Logo](https://github.com/openmainframeproject/artwork/blob/master/projects/mentorship/mentorship-color.svg)
 
+<div style="page-break-after: always;"></div>
+
 - [Role of the Mentor](#role-of-the-mentor)
   * [What Makes a Good Mentor?](#what-makes-a-good-mentor-)
   * [What to Expect from Under-Mentoring](#what-to-expect-from-under-mentoring)
