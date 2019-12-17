@@ -1,4 +1,4 @@
-# *Enhance zvm Prometheus exporter*
+# *Enhance z/vm Prometheus exporter*
 
 ## Description
 *Enhance zvm Prometheus exporter, as https://github.com/zvmexporter/zvm_exporter is pretty old and some stuffs like xcat is not maintained anymore, we propose to use Feilong as base to enhance  Prometheus exporter and to provide more metrics to help ecosystem build up*
