@@ -15,7 +15,7 @@
 ## Expected Outcome
 * Goal of the project: create a re-usable Ansible module to control IBM DS8K using DSCLI and/or  DS8K RestfulAPIs*
 
-## Difficultly
+## Difficulty
 * Medium*
 
 ## Mentors

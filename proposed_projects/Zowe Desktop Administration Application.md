@@ -15,7 +15,7 @@ Security and System administrators are concerned with controlling who has access
 ## Expected Outcome
 *Upon successful completion of the project, a Mainframe user designated as a Zowe App Framework administrator will have the ability to visually control what applications a user has access to. Additionally, this administrator may be able to view logs, control logging level, and view Zowe-desktop-related activity from all users.*
 
-## Difficultly
+## Difficulty
 *Medium*
 
 ## Mentors

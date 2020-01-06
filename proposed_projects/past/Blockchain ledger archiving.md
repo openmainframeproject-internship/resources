@@ -9,7 +9,7 @@ High familiarity with blockchain concepts. Familiarity with the Hyperledger Fabr
 ## Expected Outcome
 A pilot solution for archiving blockchain data.
 
-## Difficultly
+## Difficulty
 Hard
 
 ## Mentors

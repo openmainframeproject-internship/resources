@@ -13,7 +13,7 @@
 ## Expected Outcome
 *The proposed project targets to enabling IBM Z as an backend in MLModellScope. More specifically, we are looking for developers to work on enabling some hook code on Z so Z can be plugged into MLmodelScope to run ML workload and get instrumentations.  This would allow exposing Z as a valid platform for certain ML tasks such as inference services, attracting more ML practitioners to use Z, and influencing the support of platform compatibility by various frameworks (e.g. endianness issues)*
 
-## Difficultly
+## Difficulty
 *Medium*
 
 ## Mentors

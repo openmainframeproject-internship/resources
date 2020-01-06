@@ -23,7 +23,7 @@ Alpine Linux on s390x is currently used mainly on Docker platform. It is facing 
  * Get Alpine s390x installer code merged upstream
  * Alpine installer to be able to work in LPAR environment just like other distro (Debian, RHEL, SLES, etc.)
 
-## Difficultly
+## Difficulty
 Medium
 
 ## Mentors

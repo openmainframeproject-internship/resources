@@ -15,7 +15,7 @@
 ## Expected Outcome
 *Upon successful completion of the project, Zowe application developers will have access to a set of REST APIs and guidelines to enable their applications to respond to a session termination event and persist their states. Upon startup of a new session, a resuming application will have access to another set of APIs to retrieve their last known state and reconfigure themselves to enable a user to continue from the point they left off.*
 
-## Difficultly
+## Difficulty
 *Medium*
 
 ## Mentors

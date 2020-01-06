@@ -15,7 +15,7 @@ High familiarity with blockchain concepts, especially in the area of smart contr
 ## Expected Outcome
 A pilot solution for blockchain compliance engine. Bonus for extending engine to provide statistical aggregations and for using Spark to handle large rule sets.
 
-## Difficultly
+## Difficulty
 Hard
 
 ## Mentors

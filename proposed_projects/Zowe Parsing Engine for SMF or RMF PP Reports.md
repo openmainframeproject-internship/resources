@@ -15,7 +15,7 @@
 ## Expected Outcome
 * Goal of the project: create a parsing engine runs in z/OS node.js takes SMF datasets, RMF/CMF reports, then create outputs in CSV format(or into stream database).*
 
-## Difficultly
+## Difficulty
 *Medium*
 
 ## Mentors

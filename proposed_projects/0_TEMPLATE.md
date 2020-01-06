@@ -12,7 +12,7 @@
 ## Expected Outcome
 *List the deliverable(s) (features/application(s)/report(s) etc.) expected*
 
-## Difficultly
+## Difficulty
 *Easy/Medium/Hard*
 
 ## Mentors

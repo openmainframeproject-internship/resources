@@ -19,7 +19,7 @@ This project will involve the following tasks:
   * LuaJIT has a functional JIT compiler on S390x
   * Same number of tests run and pass as x86_64
 
-## Difficultly
+## Difficulty
 Medium
 
 ## Mentors

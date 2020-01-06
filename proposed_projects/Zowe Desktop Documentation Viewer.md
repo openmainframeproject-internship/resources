@@ -16,7 +16,7 @@ Plugins may have a variety of documentation that are shipped with them: readmes,
 ## Expected Outcome
 *Upon successful completion of the project, a new default web application will enable users to view text & pdf documents bundled into plugins. This viewer can be invoked via the Desktop’s App2App communication scheme so that it can be popped up on-demand by the plugin, or opened directly by the user for them to be able to drill-down to each plugin & each documentation file.*
 
-## Difficultly
+## Difficulty
 *Medium*
 
 ## Mentors

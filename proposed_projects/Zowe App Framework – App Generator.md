@@ -15,7 +15,7 @@
 ## Expected Outcome
 *Upon successful completion of the project, a new default web application will enable developers to pick from template or specify parameters to then trigger the generation of all base files required to host an empty web application within the Zowe App Framework Virtual Desktop, including a stub UI, a stub service, connection to base services, registration of the stub service into the API Mediation Layer, integration within SSO, connection to all logging mechanisms*
 
-## Difficultly
+## Difficulty
 *Medium*
 
 ## Mentors

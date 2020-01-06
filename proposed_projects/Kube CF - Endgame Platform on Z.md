@@ -20,7 +20,7 @@
 ## Expected Outcome
 *We want to make contributions to the upstream projects so an s390x build is always a first-class citizen*
 
-## Difficultly
+## Difficulty
 Hard
 
 ## Mentors

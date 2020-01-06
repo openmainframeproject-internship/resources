@@ -19,7 +19,7 @@
 ## Expected Outcome
 *Upon successful completion of the project, a fully functional web application hosted within the Zowe Virtual Desktop will enable a user to move files and datasets back and forth between a Mainframe and a user desktop while managing encoding to ensure users can easily open transferred files.*
 
-## Difficultly
+## Difficulty
 *Easy*
 
 ## Mentors
