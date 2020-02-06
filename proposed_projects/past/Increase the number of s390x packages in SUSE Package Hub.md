@@ -20,7 +20,7 @@ The package submission process can be reviewed at https://packagehub.suse.com/#c
 * Reviewed and choose 10 packages that will be submission targets for SUSE Package Hub approval.
 * Provide weekly documentation that outlines the efforts to get packages submitted for Package Hub approval.
 
-## Difficultly
+## Difficulty
 Medium
 
 ## Mentors

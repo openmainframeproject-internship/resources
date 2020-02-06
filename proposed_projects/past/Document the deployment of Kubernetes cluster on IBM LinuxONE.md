@@ -16,7 +16,7 @@ Have already deployed Kubernetes on distributed Linux distributions
 * Publish the documentation for each deployment on the Community pages of the Open Mainframe Project.
 * OPTIONAL: Create videos of the deployments process that ends with showing a running Kubernetes cluster.
 
-## Difficultly
+## Difficulty
 Medium
 
 ## Mentors

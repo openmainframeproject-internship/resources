@@ -19,7 +19,7 @@ A strong background of Kubernetes.
 * Transport the pipeline for BOSH Releases
 * OPTIONAL: Build a openSUSE fissile stemcell image
 
-## Difficultly
+## Difficulty
 Hard
 
 ## Mentors

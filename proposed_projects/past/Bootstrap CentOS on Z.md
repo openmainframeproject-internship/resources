@@ -14,7 +14,7 @@ This person should have familarity with Linux and working with build systems and
 ## Expected Outcome
 A successful version of CentOS for s390x architecture
 
-## Difficultly
+## Difficulty
 Medium
 
 ## Mentors

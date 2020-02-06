@@ -1,0 +1,1 @@
+This directory contains collateral that can be used in promoting the Open Mainframe Project Mentorship program. Please [let us know](mailto:mentorship@openmainframeproject.org) if there is any corrections or additions needed.

@@ -17,7 +17,7 @@ to provide optimized routines in the pixman library also the s390x architecture.
 ## Expected Outcome
 OpenBLAS is able to select the right optimized library during runtime
 
-## Difficultly
+## Difficulty
 Medium
 
 ## Mentors

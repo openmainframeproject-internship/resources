@@ -44,7 +44,7 @@ Users should be able to `cd /vmlink/vmid.addr`
 or `cd /vmlink/vmid.addr.part` and have access to the filesystem(s)
 available on the linked virtual disk.
 
-## Difficultly
+## Difficulty
 Medium
 
 ## Mentors

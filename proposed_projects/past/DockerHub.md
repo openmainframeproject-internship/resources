@@ -28,7 +28,7 @@ Basic Linux devops
 
 DockerHub images for s390x
 
-## Difficultly
+## Difficulty
 
 *Medium*
 

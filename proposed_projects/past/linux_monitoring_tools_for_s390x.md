@@ -21,7 +21,7 @@ Skills would be aligned to the languages and disciplines of the selected tools, 
 
 Open source tools updated, certified and contributed back to their projects
 
-## Difficultly
+## Difficulty
 
 *Easy/Medium* - depending on the tools chosen
 

@@ -1,5 +1,53 @@
 # Open Mainframe Project Mentorship Program - Mentee Guide
 
+![Mentorship Logo](https://github.com/openmainframeproject/artwork/blob/master/projects/mentorship/mentorship-color.svg)
+
+<div style="page-break-after: always;"></div>
+
+* [Mentee/Mentor Bonding Period](#mentee-mentor-bonding-period)
+    + [How to Get a Head Start](#how-to-get-a-head-start)
+      - [Get Your Development Environment in Order](#get-your-development-environment-in-order)
+      - [Practice](#practice)
+      - [Do Some Background Research](#do-some-background-research)
+      - [Start Interacting](#start-interacting)
+      - [Start Working with Your Fellow mentees](#start-working-with-your-fellow-mentees)
+        * [Slack channel](#slack-channel)
+        * [They're just like me!](#they-re-just-like-me-)
+        * [Make friends around the world](#make-friends-around-the-world)
+        * [Meetup and discussion groups](#meetup-and-discussion-groups)
+        * [Review Your Project Plan](#review-your-project-plan)
+  * [Mentee expectations](#mentee-expectations)
+    + [Staying on Track](#staying-on-track)
+    + [Be Respectful of Your Mentor's Time](#be-respectful-of-your-mentor-s-time)
+    + [Using Your Mentor](#using-your-mentor)
+    + [Asking For and Receiving Feedback](#asking-for-and-receiving-feedback)
+      - [How do I ask for feedback?](#how-do-i-ask-for-feedback-)
+      - [My mentor is wrong! My project is going great! What do I do?](#my-mentor-is-wrong--my-project-is-going-great--what-do-i-do-)
+    + [Dealing with Problems](#dealing-with-problems)
+      - [Where did my mentor go?](#where-did-my-mentor-go-)
+      - [Why is my mentor so mean?](#why-is-my-mentor-so-mean-)
+      - [Why is my mentor so friendly?](#why-is-my-mentor-so-friendly-)
+    + [Time management for mentees](#time-management-for-mentees)
+      - [Intern/Mentor Bonding Period](#intern-mentor-bonding-period)
+      - [Be upfront about your time commitment](#be-upfront-about-your-time-commitment)
+      - [Regular meetings with your mentor](#regular-meetings-with-your-mentor)
+      - [Have mini-goals for each week](#have-mini-goals-for-each-week)
+      - [Regular code reviews](#regular-code-reviews)
+      - [Maintain a log to keep track of your progress](#maintain-a-log-to-keep-track-of-your-progress)
+      - [Handling the time-zone differences](#handling-the-time-zone-differences)
+      - [Be prepared for the unexpected](#be-prepared-for-the-unexpected)
+    + [Managing week-to-week progress](#managing-week-to-week-progress)
+  * [Evaluations](#evaluations)
+    + [How Evaluations Work](#how-evaluations-work)
+    + [Final Evaluations and Work Product Submission](#final-evaluations-and-work-product-submission)
+    + [Payments - Be Patient!](#payments---be-patient-)
+  * [Particpation at an industry event](#particpation-at-an-industry-event)
+  * [Resources for Mentees/Mentors](#resources-for-mentees-mentors)
+    + [GitHub](#github)
+    + [Slack](#slack)
+    + [Cloud Instance](#cloud-instance)
+  * [Further resources](#further-resources)
+
 Thank you for your willingness to participate in the Open Mainframe Project Mentorship Program. This document is a guide to the program as an intern.
 
 Much of the inspiration and content for this manual comes from the [Google Summer of Code Manual](https://developers.google.com/open-source/gsoc/resources/manual), a big thank you to Google for providing this valuable resource.

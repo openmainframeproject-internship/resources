@@ -40,7 +40,7 @@ The project is constrained by the fact that Google will not accept big-endian-en
 * Set of patches to boringssl TLS 1.2 and 1.3 implementations
 * Log of run of testsuite to verify operation
 
-## Difficultly
+## Difficulty
 
 *Medium*
 

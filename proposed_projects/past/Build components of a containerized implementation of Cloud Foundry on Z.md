@@ -21,7 +21,7 @@ A strong background of Cloud Foundry.
 * OPTIONAL: Port the Java buildpack
 * OPTIONAL: Build a openSUSE fissile stemcell image
 
-## Difficultly
+## Difficulty
 Hard
 
 ## Mentors
