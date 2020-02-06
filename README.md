@@ -48,6 +48,7 @@ Mentorships can also be done as a part of an acadmeic class, such as a self-stud
 
 - [Mentee Guide](guides/mentee.md)
 - [Mentor Guide](guides/mentor)
+- [Collateral and Flyers](collateral)
 - Templates
   - [Project Plan](forms/project_plan.md)
   - [Midterm Evaluation for Mentor](mentor_midterm_evaluation.md)
