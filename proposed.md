@@ -1,6 +1,8 @@
 # Available projects for mentees
 
-You can reach out to the mentor(s) mentioned, or the overall project owner, if you are interested in working on a particular project/task.
+See below for the of current projects for mentorship. 
+
+If you are looking to complete one of these projects for the Summer Mentorship Projects, please complete the application form at http://www.openmainframeproject.org/projects/mentorship/apply
 
   * [Dynamic CPU support for s390x in OpenBLAS](/proposed_projects/Dynamic%20CPU%20support%20for%20s390x%20in%20OpenBLAS.md)
   * [Enabling IBM Z in MLModelScope](/proposed_projects/Enabling%20IBM%20Z%20in%20MLModelScope.md)
