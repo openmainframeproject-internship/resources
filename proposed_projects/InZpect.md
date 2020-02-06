@@ -16,7 +16,7 @@
 ## Expected Outcome
 There is a lot of work to do in UI and testing.  Plus almost any work on the internals requires lots of knowledge of the operating system. 
 
-## Difficultly
+## Difficulty
 Hard
 
 ## Mentors

@@ -26,7 +26,7 @@ Information about Zowe can be found on https://zowe.github.io/docs-site/latest/g
 * New Zowe Application(s)/Plugin(s)
 * Documentation
 
-## Difficultly
+## Difficulty
 * Hard
 
 ## Mentors

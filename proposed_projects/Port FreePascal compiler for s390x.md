@@ -17,7 +17,7 @@ This is the last major language/compiler that's currently missing for Linux on t
 ## Expected Outcome
 FreePascal compiler to be able to provide s390x binaries.
 
-## Difficultly
+## Difficulty
 Very hard
 
 ## Mentors

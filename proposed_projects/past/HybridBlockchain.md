@@ -20,7 +20,7 @@ High familiarity with blockchain concepts, especially in the area of consensus a
 ## Expected Outcome
 A prototype implementation of the Hybrid Blockchain features. The work should lead to a high quality research publication.
 
-## Difficultly
+## Difficulty
 Hard
 
 ## Mentors

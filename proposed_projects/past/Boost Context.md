@@ -15,7 +15,7 @@ This missing module blocks another Boost module (coroutine) and they togther blo
 ## Expected Outcome
 Provide the context module/library to reach parity with other platforms.
 
-## Difficultly
+## Difficulty
 Medium
 
 ## Mentors

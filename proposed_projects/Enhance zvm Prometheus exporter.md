@@ -11,7 +11,7 @@
 ## Expected Outcome
 *Enhance z/vm Prometheus exporter*
 
-## Difficultly
+## Difficulty
 Medium
 
 ## Mentors

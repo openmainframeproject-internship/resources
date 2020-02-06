@@ -18,7 +18,7 @@ https://github.com/xianyi/OpenBLAS/commit/d5aeff636f2d8ba99d1e5ed511c3770970f440
 ## Expected Outcome
 OpenBLAS is able to select the right optimized library during runtime
 
-## Difficultly
+## Difficulty
 Easy
 
 ## Mentors
