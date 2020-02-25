@@ -19,7 +19,7 @@
 * Medium*
 
 ## Mentors
-  * *Yongkook(Alex)	Kim  Vicon Infinity  <ykim@vicominfinity.com>*
+  * *Vinnie Terrone  Vicom Infinity  <vterrone@vicominfinity.com>*
 
 ## Additional Contacts
 [Feilong](https://github.com/openmainframeproject/python-zvm-sdk) 
