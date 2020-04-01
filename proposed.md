@@ -20,6 +20,10 @@ If you are looking to complete one of these projects for the Summer Mentorship P
   * [Zowe Desktop Documentation Viewer](proposed_projects/Zowe%20Desktop%20Documentation%20Viewer.md)
   * [Zowe Parsing Engine for SMF or RMF PP Reports](proposed_projects/Zowe%20Parsing%20Engine%20for%20SMF%20or%20RMF%20PP%20Reports.md)
 
+## Inactive projects
+
+* [Dynamic CPU support for s390x in OpenBLAS](/proposed_projects/inactive/Dynamic%20CPU%20support%20for%20s390x%20in%20OpenBLAS.md)
+
 ## Projects completed by past interns
 
   * [Hybrid Blockchain](/proposed_projects/past/HybridBlockchain.md)
