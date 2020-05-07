@@ -42,7 +42,7 @@ Past mentees also recieve the below digital badge when they successfully complet
 
 ### Mentorships for class credit
 
-Mentorships can also be done as a part of an acadmeic class, such as a self-study or capstone program. Mentees should have thier academic institution advisor or instructor contact the [Open Mainframe Project Mentorship Program Administrator](mailto:mentorship@openmainframeproject.org) to coordinate on requirements needed to complete this.
+Mentorships can also be done as a part of an acadmeic class, such as a self-study or capstone program. Mentees should have their academic institution advisor or instructor contact the [Open Mainframe Project Mentorship Program Administrator](mailto:mentorship@openmainframeproject.org) to coordinate on requirements needed to complete this.
 
 ## Resources
 
