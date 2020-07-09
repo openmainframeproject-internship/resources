@@ -6,8 +6,9 @@ Projects are proposed fot the Mentorship Project from other Open Mainframe Proje
 
 ## Active Project Status
 
-| Project | Sponsoring OMP Project | Mentors | Mentor Availability | Project Status | Cohort | Repository |  Descripton |
+| Project | Sponsoring OMP Project | Mentors | Mentor Availability | Project Status | Cohort | Repository |  Mentee |
 |---|---|---|---|---|---|---|---|
+|ADE - Add additional log support |---|Jim Caffrey - IBM | 5/1/2020 - 9/31/2020 | Active | 2020 Summer Mentorship |https://github.com/openmainframeproject-internship/ADE---Add-additional-log-support|---|
 | Enabling IBM-Z in MLModelScope | IBM |Hong Min- IBM, Jinjun Xiong - IBM, Petr Novotny - IBM | 5/1/2020 - 9/31/2020 | Active | 2020 Summer Mentorship |https://github.com/openmainframeproject-internship/Enabling-IBM-Z-in-MLModelScope | |
 |Enhance zVM Prometheus Exporter  | Prometheus | Chen ji - IBM | 5/1/2020 - 9/31/2020 | Active | 2020 Summer Mentorship |https://github.com/openmainframeproject-internship/Enhance-zvm-Prometheus-exporter | |
 | Feilong - Ansible Module | Feilong | Vincent Terrone - Vicom Infinity | 5/1/2020 - 9/31/2020 | Active | 2020 Summer Mentorship |https://github.com/openmainframeproject-internship/Feilong---Ansible-Module | |
