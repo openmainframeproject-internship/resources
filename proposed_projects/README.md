@@ -8,4 +8,6 @@ Projects are proposed fot the Mentorship Project from other Open Mainframe Proje
 
 | Project | Host OMP Project | Mentors | Mentor Availability | Project Status | Cohort | Repository |  Descripton |
 |---|---|---|---|---|---|---|---|
-| Zowe Parsing Engine for SMF or RMF PP Reports | Zowe |  |  | Active | 2020 Summer Mentorship | https://github.com/openmainframeproject-internship/Zowe-Parsing-Engine-for-SMF-or-RMF-PP-Reports |  |
+| Zowe Parsing Engine for SMF or RMF PP Reports | Zowe | Yongkook (Alex) Kim - Vicom Infinity | 5/1 - 9/31/2020 | Active | 2020 Summer Mentorship | https://github.com/openmainframeproject-internship/Zowe-Parsing-Engine-for-SMF-or-RMF-PP-Reports |  |
+| | | | | | | | |
+| | | | | | | | |
