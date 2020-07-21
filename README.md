@@ -13,13 +13,13 @@ Through the Open Mainframe Project Mentorship Program, mentees will be able to..
 
 ## Projects for Mentees
 
-Mentees should review the [current list of projects looking for mentees](proposed.md). If you have a different idea for a project, [feel free to submit it](proposed.md#How-to-Contribute-Project-Ideas) and then reach out to the Open Mainframe Project techincal community email list and/or forums to help find a mentor who can assist.
+Mentees should review the [current list of projects looking for mentees](proposed.md). If you have a different idea for a project, [feel free to submit it](proposed.md#How-to-Contribute-Project-Ideas) and then reach out to the Open Mainframe Project technical community email list and/or forums to help find a mentor who can assist.
 
 Open Mainframe Project hosted projects and other open source projects are welcome to provide projects for mentees to consider [using the guidelines provided](proposed.md#How-to-Contribute-Project-Ideas).
 
 ## How to participate
 
-Mentees can participate in the Open Mainframe Project Mentorship Program in a vareity of ways.
+Mentees can participate in the Open Mainframe Project Mentorship Program in a variety of ways.
 
 ### Funded mentorships
 
@@ -47,11 +47,11 @@ Mentorships can also be done as a part of an acadmeic class, such as a self-stud
 ## Resources
 
 - [Mentee Guide](guides/mentee.md)
-- [Mentor Guide](guides/mentor)
+- [Mentor Guide](guides/mentor.md)
 - [Collateral and Flyers](collateral)
 - Templates
   - [Project Plan](forms/project_plan.md)
-  - [Midterm Evaluation for Mentor](mentor_midterm_evaluation.md)
-  - [Midterm Evaluation for Mentee](mentee_midterm_evaluation.md)
-  - [Final Evaluation for Mentor](mentor_final_evaluation.md)
-  - [Final Evaluation for Mentee](mente_final_evaluation.md)
+  - [Midterm Evaluation for Mentor](forms/mentor_midterm_evaluation.md)
+  - [Midterm Evaluation for Mentee](forms/mentee_midterm_evaluation.md)
+  - [Final Evaluation for Mentor](forms/mentor_final_evaluation.md)
+  - [Final Evaluation for Mentee](forms/mentee_final_evaluation.md)
