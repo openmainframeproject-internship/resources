@@ -41,7 +41,7 @@
     + [How Evaluations Work](#how-evaluations-work)
     + [Final Evaluations and Work Product Submission](#final-evaluations-and-work-product-submission)
     + [Payments - Be Patient!](#payments---be-patient-)
-  * [Particpation at an industry event](#particpation-at-an-industry-event)
+  * [Participation at an industry event](#participation-at-an-industry-event)
   * [Resources for Mentees/Mentors](#resources-for-mentees-mentors)
     + [GitHub](#github)
     + [Slack](#slack)
@@ -52,7 +52,7 @@ Thank you for your willingness to participate in the Open Mainframe Project Ment
 
 Much of the inspiration and content for this manual comes from the [Google Summer of Code Manual](https://developers.google.com/open-source/gsoc/resources/manual), a big thank you to Google for providing this valuable resource.
 
-You should also review the [goals and processes of the Open Mainframe Project Mentorship Program](README.md) to familarize yourself with the overall program.
+You should also review the [goals and processes of the Open Mainframe Project Mentorship Program](README.md) to familiarize yourself with the overall program.
 
 ## Mentee/Mentor Bonding Period
 
@@ -268,9 +268,9 @@ Depending on what portions of code are included in the scope of your project, yo
 
 Successful completion of your evaluations triggers the payments to your account. This takes a few business days to process. Please be patient.
 
-## Particpation at an industry event
+## Participation at an industry event
 
-The Open Mainframe Project invites passing mentees to present at an industry conference at the end of thier term. This provides a unique opportunity for the mentee to share thier work with a broader audience, as well connect with potential employers. Mentees are excepted to act in a professional manner while at this event as you are a representative of the Open Mainframe Project and the project you contributed to.
+The Open Mainframe Project invites passing mentees to present at an industry conference at the end of their term. This provides a unique opportunity for the mentee to share their work with a broader audience, as well connect with potential employers. Mentees are excepted to act in a professional manner while at this event as you are a representative of the Open Mainframe Project and the project you contributed to.
 
 Open Mainframe Project will cover travel expenses and incidentals for the mentee to attend, including:
 
@@ -278,7 +278,7 @@ Open Mainframe Project will cover travel expenses and incidentals for the mentee
 - Local transportation
 - Meals up to $100 USD per day
 
-Expenses will be reimbursed after the event up submission of the reciepts and an invoice to ap@linuxfoundation.org.
+Expenses will be reimbursed after the event up submission of the receipts and an invoice to ap@linuxfoundation.org.
 
 ## Resources for Mentees/Mentors
 
