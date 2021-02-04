@@ -27,12 +27,13 @@ The Open Mainframe Project funds mentees to complete projects during the period 
 
 #### Program schedule
 
-The schedule and proposal process for the 2020 program [is now available](schedule/2020.md).
+The schedule and proposal process for the 2021 program [is now available](schedule/2021.md).
 
 #### Past Program Schedule and Mentees
 
 Check out the past class of mentees who have participated in the program.
 
+- [2020](schedule/2020.md)
 - [2019](schedule/2019.md)
 - [2018](schedule/2018.md)
 - [2017](schedule/2017.md)
