@@ -60,11 +60,11 @@ Past mentees also recieve the below digital badge when they successfully complet
 ## Resources
 
 - [Mentee Guide](guides/mentee.md)
-- [Mentor Guide](guides/mentor)
+- [Mentor Guide](guides/mentor.md)
 - [Collateral and Flyers](collateral)
 - Templates
   - [Project Plan](forms/project_plan.md)
-  - [Midterm Evaluation for Mentor](mentor_midterm_evaluation.md)
-  - [Midterm Evaluation for Mentee](mentee_midterm_evaluation.md)
-  - [Final Evaluation for Mentor](mentor_final_evaluation.md)
-  - [Final Evaluation for Mentee](mente_final_evaluation.md)
+  - [Midterm Evaluation for Mentor](forms/mentor_midterm_evaluation.md)
+  - [Midterm Evaluation for Mentee](forms/mentee_midterm_evaluation.md)
+  - [Final Evaluation for Mentor](forms/mentor_final_evaluation.md)
+  - [Final Evaluation for Mentee](forms/mentee_final_evaluation.md)
