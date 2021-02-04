@@ -11,39 +11,51 @@ Through the Open Mainframe Project Mentorship Program, mentees will be able to..
 - Learn crucial skills for a intern to be successful in a technology role within today's enterprise, including but not limited to project planning, communication, problem solving, and scoping.
 - Be exposed to potential employers which help them transition into their career path successfully.
 
-## Projects for Mentees
+## Ideas for mentorships
 
-Mentees should review the [current list of projects looking for mentees](proposed.md). If you have a different idea for a project, [feel free to submit it](proposed.md#How-to-Contribute-Project-Ideas) and then reach out to the Open Mainframe Project techincal community email list and/or forums to help find a mentor who can assist.
+You can view the current interest areas for mentorships on our [mentorship ideas page](ideas.md). You can also review the [past work done](past) and [upstream contributions](contributions.md) made by mentorships.
 
-Open Mainframe Project hosted projects and other open source projects are welcome to provide projects for mentees to consider [using the guidelines provided](proposed.md#How-to-Contribute-Project-Ideas).
+## Mentorship programs supported
 
-## How to participate
+The Mentorship Program manages mentorships on these platforms:
 
-Mentees can participate in the Open Mainframe Project Mentorship Program in a vareity of ways.
+- [LFX Mentorship](https://lfx.linuxfoundation.org/tools/mentorship/) 
+- [Google Summer of Code Mentoring Organization]()
+- Direct partnerships with Academic Institutions for class credit
 
-### Funded mentorships
+### LFX Mentorship
 
-The Open Mainframe Project funds mentees to complete projects during the period between semesters in the months of May, June, July, August, and September. Upon successful completion of the mentorship, mentees are invited to present at an industry conference. The Open Mainframe Project funds travel and expenses for mentees.
+Open Mainframe Project funds mentorship projects on the LFX Mentorship platform, aligning with the defined [program schedule and timeline](https://docs.linuxfoundation.org/lfx/mentorship/mentorship-program-timelines). 
 
-#### Program schedule
+If you are interested in participating as a mentee, please apply and indicate projects you would like to participate in for a mentorship at https://openmainframeproject.org/projects/mentorship/apply
 
-The schedule and proposal process for the 2021 program [is now available](schedule/2021.md).
+If you are not an Open Mainframe Project hosted project and wish to host a mentorship, please contact the [Open Mainframe Project Mentorship Program Administrator](mailto:mentorship@openmainframeproject.org).
 
-#### Past Program Schedule and Mentees
+### Google Summer of Code
+
+The Open Mainframe Project has applied to be a Google Summer of Code Mentoring Organization in 2021. More details coming soon.
+
+### Direct partnerships with Academic Institutions for class credit
+
+Mentorships can also be done as a part of an acadmeic class, such as a self-study or capstone program. Mentees should have thier academic institution advisor or instructor contact the [Open Mainframe Project Mentorship Program Administrator](mailto:mentorship@openmainframeproject.org) to coordinate on requirements needed to complete this.
+
+## Communication
+
+You can join the #mentorship channel on the [OMP Slack](https://slack.openmainframeproject.org) to connect and discuss the program.
+
+## Program Statistics
 
 Check out the past class of mentees who have participated in the program.
 
-- [2020](schedule/2020.md)
-- [2019](schedule/2019.md)
-- [2018](schedule/2018.md)
-- [2017](schedule/2017.md)
-- [2016](schedule/2016.md)
+| Year | Program | Mentorships | Total (per year) |
+|------|---------|-------------|------------------|
+| 2020 | [Community Bridge](past/2020.md) | 9 | 9 |
+| 2019 | [Direct Managed](past/2019.md) | 8 | 8 |
+| 2018 | [Direct Managed](past/2018.md) | 11 | 11 |
+| 2017 | [Direct Managed](past/2017.md) | 8 | 8 |
+| 2016 | [Direct Managed](past/2016.md) | 7 | 7 |
 
 Past mentees also recieve the below digital badge when they successfully complete the mentorship program.
-
-### Mentorships for class credit
-
-Mentorships can also be done as a part of an acadmeic class, such as a self-study or capstone program. Mentees should have thier academic institution advisor or instructor contact the [Open Mainframe Project Mentorship Program Administrator](mailto:mentorship@openmainframeproject.org) to coordinate on requirements needed to complete this.
 
 ## Resources
 
