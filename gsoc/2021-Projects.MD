@@ -60,3 +60,15 @@ log onto it, so the user can do some testing and verification of the environment
 manually download, install and do manual test. When the PR is merged the environment is torn down.
 
 **Responsible:** Systems Squad
+
+#### ML data analysis to recognize potential security breaches.
+
+**Responsible:** API ML Squad
+
+### COBOL Programming Course
+
+#### Update the Getting Started Course content to reflect updates from sister projects (ZOWE)
+
+#### Implement some key strategic issues that have been brought forward by the community
+
+#### Improve the Advanced Topics chapter of the course.
