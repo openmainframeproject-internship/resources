@@ -24,5 +24,7 @@ Please issue PRs against this document with any ideas you might have.
 - [Patch to the Linux PAX project to understand the headers properly](https://github.com/openmainframeproject-internship/resources/blob/master/gsoc/2021-Projects.MD#patch-to-the-linux-pax-project-to-understand-the-headers-properly)
 - [Improve starting of the app server](https://github.com/openmainframeproject-internship/resources/blob/master/gsoc/2021-Projects.MD#improve-starting-of-the-app-server) 
 - [Slack integration to Zowe](https://github.com/openmainframeproject-internship/resources/blob/master/gsoc/2021-Projects.MD#slack-integration-to-zowe)
-- [GitHub PR integration for manual testing simplification.](https://github.com/openmainframeproject-internship/resources/blob/master/gsoc/2021-Projects.MD#github-pr-integration-for-manual-testing-simplification)   
+- [GitHub PR integration for manual testing simplification.](https://github.com/openmainframeproject-internship/resources/blob/master/gsoc/2021-Projects.MD#github-pr-integration-for-manual-testing-simplification) 
+- [Improve the Zowe doc site generator and UI](https://github.com/openmainframeproject-internship/resources/blob/master/gsoc/2021-Projects.MD#improve-the-zowe-doc-site-generator-and-ui)
+  
  

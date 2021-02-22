@@ -65,6 +65,12 @@ manually download, install and do manual test. When the PR is merged the environ
 
 **Responsible:** API ML Squad
 
+#### Improve the Zowe doc site generator and UI 
+
+Zowe docs consist of several high-level sections such as Getting Started, User Guide, Extending, etc. Due to the limitation of the Vuepress (current site generator) sidebar depth, the sidebar or navigation experience is not satisfactory. Also most open source docs now provide a three column layout and many other social functions such as Share. The goal is to provide a good and more industry-standard doc navigation experience for the Zowe doc site with better UI and functions that engage users.  A new site generator can be explored.
+
+**Responsible:** Doc Squad
+
 ### COBOL Programming Course
 
 #### Update the Getting Started Course content to reflect updates from sister projects (ZOWE)
