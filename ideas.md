@@ -28,5 +28,8 @@ Please issue PRs against this document with any ideas you might have.
 - [GitHub PR integration for manual testing simplification.](https://github.com/openmainframeproject-internship/resources/blob/master/gsoc/2021-Projects.MD#github-pr-integration-for-manual-testing-simplification) 
 - [Improve the Zowe doc site generator and UI](https://github.com/openmainframeproject-internship/resources/blob/master/gsoc/2021-Projects.MD#improve-the-zowe-doc-site-generator-and-ui)
 - Zowe Explorer MVP plugin for IntelliJ IDEA 
+
+- Zowe Explorer
+  - [Create Zowe Extension Templates](https://github.com/zowe/vscode-extension-for-zowe/issues/1216)
   
  
