@@ -27,7 +27,11 @@ Please issue PRs against this document with any ideas you might have.
 - [Slack integration to Zowe](https://github.com/openmainframeproject-internship/resources/blob/master/gsoc/2021-Projects.MD#slack-integration-to-zowe)
 - [GitHub PR integration for manual testing simplification.](https://github.com/openmainframeproject-internship/resources/blob/master/gsoc/2021-Projects.MD#github-pr-integration-for-manual-testing-simplification)
 - [Improve the Zowe doc site generator and UI](https://github.com/openmainframeproject-internship/resources/blob/master/gsoc/2021-Projects.MD#improve-the-zowe-doc-site-generator-and-ui)
-- Zowe Explorer MVP plugin for IntelliJ IDEA
 
 - Zowe Explorer
   - [Zowe Explorer Extension Templates](https://github.com/zowe/vscode-extension-for-zowe/issues/1216)
+
+  - Zowe Explorer MVP plugin for IntelliJ IDEA
+
+- Zowe SDK
+  - [Zowe Client Java SDK](https://github.com/zowe/zowe-cli/issues/962)
