@@ -30,7 +30,7 @@ Please issue PRs against this document with any ideas you might have.
 
 - Zowe Explorer
   - [Zowe Explorer Extension Templates](https://github.com/zowe/vscode-extension-for-zowe/issues/1216)
-
+  - [Quick search in mainframe data sets and files from VS Code](gsoc/2021-Projects.MD#quick-search-in-mainframe-data-sets-and-files-from-vs-code)
   - Zowe Explorer MVP plugin for IntelliJ IDEA
 
 - Zowe SDK
