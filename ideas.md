@@ -30,8 +30,7 @@ Please issue PRs against this document with any ideas you might have.
 
 - Zowe Explorer
   - [Zowe Explorer Extension Templates](https://github.com/zowe/vscode-extension-for-zowe/issues/1216)
-
-  - Zowe Explorer MVP plugin for IntelliJ IDEA
+  - [Zowe toolkit plugin for IntelliJ IDEA](https://github.com/openmainframeproject-internship/resources/blob/master/gsoc/2021-Projects.MD#zowe-toolkit-plugin-for-intellij-idea)
 
 - Zowe SDK
   - [Zowe Client Java SDK](https://github.com/zowe/zowe-cli/issues/962)
