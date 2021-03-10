@@ -97,6 +97,14 @@ Zowe docs consist of several high-level sections such as Getting Started, User G
 
 **Responsible:** Doc Squad
 
+#### Quick search in mainframe data sets and files from VS Code
+
+**Problem:** Searching in files is a typical activity during software development. VS Code makes it very easy to find files that contain a given string or match a regular expression. But searching of mainframe data sets, members, or files is not easy. Even locating a member in a large library is difficult. Searching by content is not possible.  
+
+**Solution:** The goal is to provide a similar interface to VS Code for searching in data sets and files. It will be possible to locate a dataset, member, or file by name and by content. As a part of the implementation, the internal Zowe Client SDK will be extended. New Zowe CLI for search will be created too.
+
+**Responsible:** Explorer Squad
+
 ### COBOL Programming Course
 
 #### Update the Getting Started Course content to reflect updates from sister projects (ZOWE)
