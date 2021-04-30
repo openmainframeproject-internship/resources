@@ -69,6 +69,11 @@ manually download, install and do manual test. When the PR is merged the environ
 
 Zowe docs consist of several high-level sections such as Getting Started, User Guide, Extending, etc. Due to the limitation of the Vuepress (current site generator) sidebar depth, the sidebar or navigation experience is not satisfactory. Also most open source docs now provide a three column layout and many other social functions such as Share. The goal is to provide a good and more industry-standard doc navigation experience for the Zowe doc site with better UI and functions that engage users.  A new site generator can be explored.
 
+### Create ZSS Zowe CLI Plugin
+ZSS is a HTTP server written in Metal C, its part of zowe, and provide some very useful API for ZLUX, and otherwise. It would be greate if we can build a CLI plugin for ZSS, this way ZSS can be executed from thick client like desktop as well. ZSS has ability to get and update USS files, datasets, and some useful api like reset system password etc. It would be great to have it as CLI Plugin.
+
+**Responsible:** WebUI Squad
+
 #### Zowe toolkit plugin for IntelliJ IDEA
 
  This proposal is for creating a common library and set of Zowe plugins for IntelliJ IDEA, leveraging API ML for access to z/OS resources and services.
