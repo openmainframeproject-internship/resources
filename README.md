@@ -20,8 +20,8 @@ You can view the current interest areas for mentorships on our [mentorship ideas
 The Mentorship Program manages mentorships on these platforms:
 
 - [LFX Mentorship](https://lfx.linuxfoundation.org/tools/mentorship/) 
-- [Google Summer of Code Mentoring Organization]()
-- Direct partnerships with Academic Institutions for class credit
+- [Google Summer of Code Mentoring Organization](https://summerofcode.withgoogle.com/organizations/)
+- Direct partnerships with Academic Institutions for class credit(mentorship@openmainframeproject.org)
 
 ### LFX Mentorship
 
