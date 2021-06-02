@@ -49,6 +49,7 @@ Check out the past class of mentees who have participated in the program.
 
 | Year | Program | Mentorships | Total (per year) |
 |------|---------|-------------|------------------|
+| 2021 | [LFX] | 17 | 17 |
 | 2020 | [Community Bridge](past/2020.md) | 9 | 9 |
 | 2019 | [Direct Managed](past/2019.md) | 8 | 8 |
 | 2018 | [Direct Managed](past/2018.md) | 11 | 11 |
