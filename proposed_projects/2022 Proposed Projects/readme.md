@@ -12,7 +12,7 @@ Projects are proposed fot the Mentorship Project from other Open Mainframe Proje
 | Optimized graphics routines for s390x in pixman | | |  | Proposed | | | |
 | Port FreePascal compiler for s390x | | | | Proposed | | | |
 | Zowe Desktop Administration Application | Zowe | |  | Proposed |  | | |
-| | | | | | | | |
+|Portabliity test of MLOps for s390x | | Alex Kim| |proposed | | | |
 | | | | | | | | |
 | | | | | | | | |
 | | | | | | | | |
